@@ -1,0 +1,4 @@
+-Mutex
+-Condition variable
+-semaphores
+-counting semaphores
