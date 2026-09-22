@@ -8,18 +8,31 @@ Phase 1 — Market microstructure + order book
 Basic limit-order matching-22nd Sept
 
 Market-order execution
+
 Partial fills
+
 Multi-level market-order sweep
+
 IOC
+
 FOK
+
 Cancel / replace
+
 Order lifecycle state machine
+
 Price-time priority
+
 Pro-rata matching
+
 L1 order book
+
 L2 order book
+
 L3 order book
+
 Order-book replay
+
 Snapshot + incremental book reconstruction
 
 Learn: spread, liquidity, queue position, slippage, matching, order lifecycle.
