@@ -6,6 +6,7 @@ Phase 1 — Market microstructure + order book
 ~15 programs
 
 Basic limit-order matching-22nd Sept
+
 Market-order execution
 Partial fills
 Multi-level market-order sweep
